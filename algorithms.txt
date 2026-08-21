@@ -1,0 +1,9 @@
+Start
+Declare an array to store temperatures for 7 days.
+Input temperatures for all 7 days.
+Store the temperatures in the array.
+Find the highest and lowest temperatures.
+Calculate the average temperature.
+Count the days above 35°C.
+Display the weekly weather report.
+Stop.
